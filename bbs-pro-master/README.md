@@ -1,11 +1,10 @@
-###  Spring 版本轻论坛请移步至 [https://gitee.com/diyhi/bbs](https://gitee.com/diyhi/bbs)
-###  前台前后端分离电脑版前端请移步至 [https://gitee.com/diyhi/bbs-web-pc ](https://gitee.com/diyhi/bbs-web-pc )
-###  前台前后端分离手机版前端请移步至 [https://gitee.com/diyhi/bbs-web-mobile ](https://gitee.com/diyhi/bbs-web-mobile )
-###  前后端分离版管理后台前端请移步至 [https://gitee.com/diyhi/bbs-web-admin](https://gitee.com/diyhi/bbs-web-admin ) 
+###  前台前后端分离管理端电脑版前端请移步至 [https://github.com/zhangsan2280/vue3-management-forum/tree/main/bbs-web-admin-master]
+###  前台前后端分离电脑版前端请移步至 [[https://github.com/zhangsan2280/vue3-web-forum](https://github.com/zhangsan2280/vue3-web-forum/tree/main/bbs-web-pc-master)]
+###  前后端分离版管理后台前端请移步至 [[https://gitee.com/diyhi/bbs-web-admin](https://github.com/zhangsan2280/springboot-forum/tree/main/bbs-pro-master)]
 <br>
 
 #### 项目介绍
-巡云轻论坛Pro版基于 SpringBoot 开发。包含论坛、问答模块。自适应手机端和电脑端。部分数据库表结构设计使用分表方案。
+反诈轻论坛Pro版基于 SpringBoot 开发。包含论坛、问答模块。自适应手机端和电脑端。部分数据库表结构设计使用分表方案。
 
 <br>
 部分数据库表使用分表设计,默认分为4个表,表中有数据后不建议再调整分表数量。程序带有图形安装界面，服务器部署时可以用来初始化数据。前台所有页面均支持返回HTML和JSON格式数据,API接口文档可在【页面管理】 - 【模板列表】 - 【布局】 - 【版块】 中查看。前台各模块模板和 资源均可在线编辑和管理。前台电脑版和手机版各有一套模板,默认页面使用的模板技术:电脑版使用FreeMarker标签，手机版使用Vue2.0,当然也可以使用其它前端模板框架设计页面进行展示。管理后台带有升级接口，新版本jar包覆盖旧版本jar包后，可以在管理后台操作升级。 
@@ -19,18 +18,11 @@
 Spring Boot + JPA + Ehcache + Lucene
 
 
-官方网站：[http://www.diyhi.com/](http://www.diyhi.com/)
-
-
-
-演示网站：[http://www.diyhi.com/cms.html](http://www.diyhi.com/cms.html) 页面可获取前后台演示地址、登录账号和密码(Spring版)
-
+反诈网站：
+https://www.telegramfanzha.com/ 测试账号：test 密码:1234567
 
 
 服务器部署参考：[http://www.diyhi.com/article-8.html](http://www.diyhi.com/article-8.html)
-
-
-
 
 
 
