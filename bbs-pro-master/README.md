@@ -22,10 +22,6 @@ Spring Boot + JPA + Ehcache + Lucene
 https://www.telegramfanzha.com/ 测试账号：test 密码:1234567
 
 
-服务器部署参考：[http://www.diyhi.com/article-8.html](http://www.diyhi.com/article-8.html)
-
-
-
 <br><br>
 #### 使用平台
 JDK 1.8及以上 + MySQL 5.5.3及以上
